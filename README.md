@@ -1,4 +1,4 @@
-# 12 V → 3.3 V Buck Converter
+# 12 V to 3.3 V Buck Converter
 
 A 12 V to 3.3 V, 2A buck converter, designed in three steps. 
 I started by researching how a buck converter works, and moved on to the hand calculations (duty cycle, inductor, output capacitor)
