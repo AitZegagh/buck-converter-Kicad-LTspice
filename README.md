@@ -1,5 +1,14 @@
 # 12 V to 3.3 V Buck Converter
 
+
+<p align="center">
+  <img src="images/16_kicad_schematic.jpg" alt="KiCad schematic" width="800">
+</p>
+<p align="center">
+  <img src="images/21_pcb_3d_top.jpg" alt="3D view, top" width="800">
+</p>
+
+
 A 12 V to 3.3 V, 2A buck converter, designed in three steps. 
 I started by researching how a buck converter works, and moved on to the hand calculations (duty cycle, inductor, output capacitor)
 I then simulated it in LTspice, going from a simple diode version to a synchronous one with real MOSFETs. 
